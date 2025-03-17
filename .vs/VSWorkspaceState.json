@@ -1,7 +1,11 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\mikaelamatias_portfolio",
+    "\\mikaelamatias_portfolio\\src",
+    "\\mikaelamatias_portfolio\\src\\components",
+    "\\mikaelamatias_portfolio\\src\\pages"
   ],
-  "SelectedNode": "\\C:\\Users\\mikae\\Source\\Repos\\mika_portfolio",
+  "SelectedNode": "\\mikaelamatias_portfolio\\src\\pages\\Contact.js",
   "PreviewInSolutionExplorer": false
 }
